@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SimpleCalcPlus</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_primary_color">Primary Color</string>
+    <string name="summary_primary_color">Set primary color of foreground</string>
+    <string name="title_background_color">Background Color</string>
+    <string name="summary_background_color">Set color of background items</string>
+    <string name="primary_color_default">#009688</string>
+    <string name="background_color_default">#ffffff</string>
+    <string name="pref_primary_color">Settings.primaryColor</string>
+    <string name="pref_background_color">Settings.backgroundColor</string>
+    <string name="invalid_color">Not a valid color</string>
+</resources>
